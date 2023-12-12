@@ -1,7 +1,17 @@
 # Chafter: Python Crash Book
 
 ---
-Title: List
+Chafter 1 : Styling Your Code
+---
+
+- PEP - Python Enhance Proposal
+- 4 spaces as indetation.
+- Line Length < 80 characters
+- Comments < 72 charactets
+- Blank lines : It impacts readability of your code
+
+---
+Chafter 2 : List
 ---
 
 - Ordered indexing
@@ -62,5 +72,26 @@ Title: List
 
 
 ---
-Title: Tuple
+Chafter 3: Tuple
 ---
+
+Once the tuple is being created, then not able to change anything inside
+
+
+- Use cases:
+    - Tuples are often used when the order of elements matters, and you want to ensure the data remains constant.
+    - They are commonly used in situations where data should not be modified accidentally.
+    - Tuples can be used as keys in dictionaries (unlike lists) due to their immutability
+
+
+---
+Chafter 4: Conditional Statements
+---
+
+### Conditional Statment
+
+    if condition
+
+    elif condition
+
+    else
